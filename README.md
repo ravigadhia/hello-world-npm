@@ -6,7 +6,7 @@ This is a simple npm package that demonstrates the [GitHub Package Registry](htt
 
 Before installing, make sure to authenticate with GitHub Package Registry or using a `.npmrc` file. See "[Configuring npm for use with GitHub Package Registry](https://help.github.com/en/articles/configuring-npm-for-use-with-github-package-registry#authenticating-to-github-package-registry)."
 
-`$ npm install @codertocat/hello-world-npm`
+`$ npm install @ravigadhia/hello-world-npm`
 
 Or add this package to your `package.json` file:
 
